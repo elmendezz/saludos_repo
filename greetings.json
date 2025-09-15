@@ -601,5 +601,13 @@
     "timestamp": "2025-09-15T20:17:24.598Z",
     "isGlowing": true,
     "likes": 0
+  },
+  {
+    "id": "ed2e4ecd",
+    "name": "bersain",
+    "message": "mendez te amo",
+    "timestamp": "2025-09-15T20:22:21.267Z",
+    "isGlowing": false,
+    "likes": 0
   }
 ]
