@@ -240,5 +240,12 @@
     "message": "La neta a mí me gusta una de mi salón",
     "timestamp": "2025-09-15T04:06:39.387Z",
     "isGlowing": true
+  },
+  {
+    "id": "8144091d",
+    "name": "Empty",
+    "message": "Cannot display this message on your Instagram version.",
+    "timestamp": "2025-09-15T04:30:47.136Z",
+    "isGlowing": false
   }
 ]
