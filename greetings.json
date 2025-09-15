@@ -537,5 +537,13 @@
     "timestamp": "2025-09-15T15:59:46.228Z",
     "isGlowing": false,
     "likes": 0
+  },
+  {
+    "id": "d02c3d46",
+    "name": "@elmendez_2.0",
+    "message": "Oigan todos, la versión 14 ya está lanzada, en el menú salen los cambios 👤",
+    "timestamp": "2025-09-15T16:00:45.887Z",
+    "isGlowing": true,
+    "likes": 0
   }
 ]
