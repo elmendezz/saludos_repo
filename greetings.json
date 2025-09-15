@@ -577,5 +577,13 @@
     "timestamp": "2025-09-15T18:05:29.833Z",
     "isGlowing": true,
     "likes": 0
+  },
+  {
+    "id": "7aba6b5b",
+    "name": "Usuario Anónimo",
+    "message": "Digan sus verdades o secretos",
+    "timestamp": "2025-09-15T18:46:58.464Z",
+    "isGlowing": false,
+    "likes": 0
   }
 ]
