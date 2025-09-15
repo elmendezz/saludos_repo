@@ -471,5 +471,13 @@
     "timestamp": "2025-09-15T07:00:11.466Z",
     "isGlowing": false,
     "likes": 0
+  },
+  {
+    "id": "bab543c6",
+    "name": "@elmendez_2.0",
+    "message": "ARREEE BERSA",
+    "timestamp": "2025-09-15T07:00:33.476Z",
+    "isGlowing": true,
+    "likes": 0
   }
 ]
