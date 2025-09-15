@@ -40,5 +40,11 @@
     "message": "Saludo",
     "timestamp": "2025-09-15T02:22:30.406Z",
     "isGlowing": false
+  },
+  {
+    "name": "Tu fan #1",
+    "message": "Mendez esto es anónimo?:)",
+    "timestamp": "2025-09-15T02:23:10.423Z",
+    "isGlowing": false
   }
 ]
