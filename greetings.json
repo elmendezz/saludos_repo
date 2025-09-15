@@ -545,5 +545,13 @@
     "timestamp": "2025-09-15T16:00:45.887Z",
     "isGlowing": true,
     "likes": 0
+  },
+  {
+    "id": "f1d6be7f",
+    "name": "q",
+    "message": "Ósea que si no pongo mi nombre no c ve quien lo manda?",
+    "timestamp": "2025-09-15T17:29:40.838Z",
+    "isGlowing": false,
+    "likes": 0
   }
 ]
