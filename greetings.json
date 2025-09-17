@@ -721,5 +721,13 @@
     "timestamp": "2025-09-16T21:08:53.868Z",
     "isGlowing": true,
     "likes": 0
+  },
+  {
+    "id": "acc03b88",
+    "name": "Usuario Anónimo",
+    "message": "Maluma beibe",
+    "timestamp": "2025-09-17T18:26:34.015Z",
+    "isGlowing": false,
+    "likes": 0
   }
 ]
