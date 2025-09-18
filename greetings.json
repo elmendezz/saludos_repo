@@ -25,6 +25,7 @@
     "isGlowing": false
   },
   {
+    "id": "recovered",
     "name": "Nicol",
     "message": "Helloo✌🏾✨️",
     "timestamp": "2025-09-15T02:20:17.432Z",
@@ -37,6 +38,7 @@
     "isGlowing": false
   },
   {
+  "id": "recovered1",
     "name": "Ximena",
     "message": "Saludo",
     "timestamp": "2025-09-15T02:22:30.406Z",
@@ -61,12 +63,14 @@
     "isGlowing": false
   },
   {
+  "id": "recovered3",
     "name": "daneo",
     "message": "ola",
     "timestamp": "2025-09-15T02:30:33.160Z",
     "isGlowing": false
   },
   {
+  "id": "rooxx",
     "name": "Roxxanaaaa 🦾🔥",
     "message": "Holaaaaaa amiguito!!\nA ver cuando nos volvemos a ver las caras JAJAJA 🫶🏽💖",
     "timestamp": "2025-09-15T02:33:52.682Z",
