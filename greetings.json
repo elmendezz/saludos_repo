@@ -744,5 +744,13 @@
     "timestamp": "2025-09-18T14:35:10.098Z",
     "isGlowing": false,
     "likes": 0
+  },
+  {
+    "id": "fe0fce35",
+    "name": "hola",
+    "message": "holaaaaaaaa",
+    "timestamp": "2025-10-01T00:51:15.342Z",
+    "isGlowing": false,
+    "likes": 0
   }
 ]
